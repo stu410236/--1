@@ -1,0 +1,6 @@
+{
+  "name": "2048 Game",
+  "description": "A beautifully designed 2048 sliding block puzzle game with smooth animations, score tracking, and undo features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
